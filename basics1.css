@@ -1,0 +1,23 @@
+/* comment */
+h1{
+  color: blue;
+  text-align: center;
+  background: url(http://hdqwalls.com/wallpapers/new-york-city-wide-8k-2z.jpg);
+}
+
+div{
+  text-align: center;
+  background-color: white;
+  boarder-color:white;
+  boarder-width:1px;
+  boarder-style:double;
+
+}
+
+
+  #sub{
+    background-color: white;
+    height: 20px;
+    width:100px;
+    border-radius:10px;
+  }
